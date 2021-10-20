@@ -1,8 +1,8 @@
-### Hi there 👋, Hicham EL KAISSI
-#### Economist
+## Hi there 👋, Hicham EL KAISSI
 I'm Hicham El Kaissi, an economist who is interested in finance and financial economics. In my work, I try to combine between traditional statistical methods and machine learning.
 
-Skills: R / Python / Stata 
+## Skills: 
+• 💻 R / Python / Stata 
 
 - 🌱 I’m currently learning extreme value theory 
 
