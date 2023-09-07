@@ -2,7 +2,7 @@
 I'm Hicham El Kaissi, an economist who is interested in finance and financial economics. In my work, I try to combine between traditional statistical methods and machine learning.
 
 ## Skills: 
-• 💻 R / Python / Stata 
+• 💻 R / Python / C++
 
 - 🌱 I’m currently learning extreme value theory 
 
